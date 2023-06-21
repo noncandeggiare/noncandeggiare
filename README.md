@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noncandeggiare
 - 👀 I’m interested in experimenting and learning how to develope code
-- 🌱 I’m currently learning developing through python
+- 🌱 I’m currently learning how to develope code through python
 - 📫 You can reach me on twitter or mastodon.uno with the same handle
 
 <!---
