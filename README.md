@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noncandeggiare
 - 👀 I’m interested in experimenting and learning how to develope code
 - 🌱 I’m currently learning how to develope code through python
-- 📫 You can reach me on bluesky, threads or mastodon.uno with the same handle
+- 📫 You can reach me on bluesky or mastodon.uno with the same handle
 
 <!---
 noncandeggiare/noncandeggiare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
